@@ -3,7 +3,7 @@ using System.Collections;
 
 namespace ArrrayList
 {
-    class Program
+    class StudentManagement
     {
         static void Main(string[] args)
         {
